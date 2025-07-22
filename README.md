@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## 🧪 Run Tests
 ```bash
-python -m unittest tests/test_analyzer.py
+python3 -m unittest tests/test_analyzer.py
 ```
 
 ## 📂 Project Structure
