@@ -1,0 +1,11 @@
+# dictionary.txt
+password
+123456
+letmein
+qwerty
+admin
+welcome
+iloveyou
+monkey
+abc123
+football
