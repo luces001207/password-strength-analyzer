@@ -11,7 +11,7 @@ A Python tool to evaluate the strength of a password using entropy, dictionary m
 
 ## 🛠 Usage
 ```bash
-$ python cli_tool.py --password "P@ssw0rd123"
+$ python3 cli_tool.py --password "P@ssw0rd123"
 ```
 
 ## 📊 Sample Output
