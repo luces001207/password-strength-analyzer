@@ -11,15 +11,16 @@ A Python tool to evaluate the strength of a password using entropy, dictionary m
 
 ## 🛠 Usage
 ```bash
-$ python3 cli_tool.py --password "P@ssw0rd123"
+python3 cli_tool.py --password "P@ssw0rd123"
 ```
 
 ## 📊 Sample Output
 ```
-Rating: Strong (Score: 70/100)
-Entropy: 3.9 bits
+Rating: Strong (Score: 60/100)
+Entropy: 3.28 bits
 Feedback:
-- Contains common dictionary word.
+- Password is shorter than 12 characters.
+- Low entropy.
 ```
 
 ## ✅ Requirements
