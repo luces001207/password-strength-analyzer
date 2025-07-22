@@ -1,0 +1,5 @@
+# requirements.txt
+
+# No external packages needed, but if expanded:
+# zxcvbn
+# numpy
